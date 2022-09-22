@@ -1,0 +1,9 @@
+{
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"libs/commons-dbutils-1.7.jar",
+		"libs/druid-1.2.9.jar",
+		"libs/mchange-commons-java-0.2.20.jar",
+		"libs/mysql-connector-java-8.0.28.jar"
+	]
+}

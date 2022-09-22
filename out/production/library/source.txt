@@ -1,0 +1,2 @@
+( book_no_7, Computer Science, Database System, xxx, 2012, xxx, 1000, 2 )
+( book_no_8, Art, Art, xxx, 2014, xxx, 800, 2 )
